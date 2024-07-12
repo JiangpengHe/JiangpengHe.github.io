@@ -48,14 +48,11 @@
 
       {%- for author in entry.author_array -%}
         {% assign author_is_self = false %}
-        {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
-        {% if site.scholar.last_name contains author_last_name %}
-          {% if site.scholar.first_name contains author.first %}
-            {% assign author_is_self = true %}
-          {% endif %}
-        {%- endif -%}
+        {% if author.last == site.scholar.last_name and author.first contains site.scholar.first_name %}
+          {% assign author_is_self = true %}
+        {% endif %}
         {% assign coauthor_url = null %}
-        {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
+        {%- assign clean_last_name = author.last | downcase | remove_accents -%}
         {% if site.data.coauthors[clean_last_name] %}
           {%- for coauthor in site.data.coauthors[clean_last_name] -%}
             {% if coauthor.firstname contains author.first %}
@@ -192,7 +189,7 @@
               {% if entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
               {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
+                data-doi="{{ entry.doi }}
               {% elsif entry.altmetric %}
                 data-altmetric-id="{{ entry.altmetric }}"
               {% elsif entry.pmid %}
@@ -218,7 +215,7 @@
               style="margin-bottom: 3px;"
             ></span>
           {% endif %}
-          {% if site.enable_publication_badges.google_scholar and entry.has_google_scholar_badge %}
+          {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
             <a
               href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.scholar_userid }}&citation_for_view={{ site.scholar_userid }}:{{ entry.google_scholar_id }}"
               aria-label="Google Scholar link"
