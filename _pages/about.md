@@ -3,8 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>. 
-  <a href='https://www.purdue.edu/'>Adjunct Faculty at Purdue University</a>.
+  <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>
+  <br/>
+  <a href='https://www.purdue.edu/'>Adjunct Faculty at Purdue University</a>
 
 profile:
   align: right
