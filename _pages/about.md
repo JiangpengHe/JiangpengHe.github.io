@@ -3,18 +3,20 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>
-  <br />
-  <a href='https://www.purdue.edu/'>Adjunct Faculty at Purdue University</a>
+  <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>. 
+  <a href='https://www.purdue.edu/'>Adjunct Faculty at Purdue University</a>.
+
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false  # crops the image to make it circular
-  more_info: 
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: true  # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Department of Mechanical Engineering, MIT</p>
+    <p>Department of Electrical and Computer Engineering, Purdue University</p>
+
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I am a postdoctoral associate in the Department of Mechanical Engineering at <a href='https://www.mit.edu/'>MIT</a>. Additionally, I serve as an adjunct faculty member in the Department of Electrical and Computer Engineering at <a href='https://www.purdue.edu/'>Purdue University</a>.
