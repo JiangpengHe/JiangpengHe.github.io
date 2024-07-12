@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **Gradient reweighting: Towards imbalanced class-incremental learning** is accepted to [CVPR 2024](https://cvpr.thecvf.com/2024/)
+Our paper **Gradient reweighting: Towards imbalanced class-incremental learning** is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)
