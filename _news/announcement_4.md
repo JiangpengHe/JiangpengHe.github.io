@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to give the talk with title **Advances in Image-Based Dietary Assessment** at [Fudan University](https://www.fudan.edu.cn/en/)
+I give the talk **Advances in Image-Based Dietary Assessment** at [Fudan University](https://www.fudan.edu.cn/en/)
