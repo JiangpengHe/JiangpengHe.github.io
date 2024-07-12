@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to have been recognized as an **Outstanding Reviewer** for [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)
+I am honored to be recognized as an **Outstanding Reviewer** for [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024)
