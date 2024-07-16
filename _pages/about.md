@@ -12,10 +12,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: right; margin-top: 10px;">
+    <div style="text-align: right; margin-top: 10px; padding-left: 20%;">
       <a href="mailto:jpenghe@mit.edu" style="color: #4a4a4a; text-decoration: none; font-weight: bold;">jpenghe[at]mit[dot]edu</a>
       <br/>
-      <a href="mailto:he416@purdue.edu" style="color: #4a4a4a; text-decoration: none; font-weight: bold;">he416[at]pursue[dot]edu</a>
+      <a href="mailto:he416@purdue.edu" style="color: #4a4a4a; text-decoration: none; font-weight: bold;">he416[at]purdue[dot]edu</a>
     </div>
 
 news: true # includes a list of news items
