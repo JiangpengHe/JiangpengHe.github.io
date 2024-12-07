@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [MetaFood3D](https://lorenz.ecn.purdue.edu/~food3d/) dataset is now available — the first comprehensive 3D food dataset with nutrition values
+Our [MetaFood3D](https://arxiv.org/abs/2409.01966) dataset is now available — the first comprehensive 3D food dataset with nutrition values
