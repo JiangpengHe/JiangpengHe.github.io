@@ -27,3 +27,5 @@ I earned my Ph.D. in Electrical and Computer Engineering from <a href='https://w
 Prior to my doctoral studies, I obtained my bachelor's degree from the <a href='https://en.uestc.edu.cn/'>University of Electronic Science and Technology of China</a>, Chengdu.
 
 <i>I warmly welcome anyone interested in collaborating or discussing research with me, whether remotely or in person. Potential topics related to **continual learning**, **long-tail learning**, and **AI for health care**.</i>
+
+<span style="color: red; font-weight: bold;">Important update or announcement</span>
