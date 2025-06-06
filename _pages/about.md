@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: >
   <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>
+  <br/>
 profile:
   align: right
   image: prof_pic.jpg
