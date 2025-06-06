@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: >
   <a href='https://www.mit.edu/'>Postdoctoral Associate at MIT</a>
-  <br/>
 profile:
   align: right
   image: prof_pic.jpg
@@ -21,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral associate in the Department of Mechanical Engineering at <a href='https://www.mit.edu/'>MIT</a>, working with <a href='https://scholar.google.com/citations?user=0nJR75gAAAAJ&hl=en'>Dr. Hermano Igo Krebs</a> on smart rehabilitation robotics. 
+I am currently a postdoctoral associate in the Department of Mechanical Engineering at <a href='https://www.mit.edu/'>MIT</a>, working with <a href='https://engineering.purdue.edu/~zhu0/'>Dr. Hermano Igo Krebs</a> on smart rehabilitation robotics. 
 
 I earned my Ph.D. in Electrical and Computer Engineering from <a href='https://www.purdue.edu/'>Purdue University</a>, in the <a href='https://engineering.purdue.edu/~ips/'>Video and Image Processing Lab (VIPER)</a>, where I had the privilege of being advised by <a href='https://engineering.purdue.edu/~zhu0/'>Prof. Fengqing Maggie Zhu</a> and <a href='https://engineering.purdue.edu/~ace/'>Prof. Edward Delp</a>.
 
