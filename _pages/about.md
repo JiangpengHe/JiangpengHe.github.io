@@ -28,4 +28,4 @@ Prior to my doctoral studies, I obtained my bachelor's degree from the <a href='
 
 <i>I warmly welcome anyone interested in collaborating or discussing research with me, whether remotely or in person. Potential topics related to **continual learning**, **long-tail learning**, and **AI for health care**.</i>
 
-<span style="color: red; font-weight: bold;">Important update or announcement</span>
+<span style="color: red;">Your red text here</span>
