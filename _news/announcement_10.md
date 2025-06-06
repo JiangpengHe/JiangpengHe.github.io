@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **Long-Tailed Continual Learning For Visual Food Recognition** is accepted to **IEEE Transactions on Multimedia**. Paper and source code can be found [Here](https://openaccess.thecvf.com/content/CVPR2025/papers/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.pdf).
+Our paper **Long-Tailed Continual Learning For Visual Food Recognition** is accepted to **IEEE Transactions on Multimedia**. We introduced new food image benchmark datasets **VFN186** that simulates the real-world food consumption patterns for healthy people, type-1 and type-2 diabetes to perfrom continual learning. The paper and dataset can be accessed [Here](https://arxiv.org/abs/2307.00183).
