@@ -13,6 +13,8 @@ profile:
       <a href="mailto:jpenghe@mit.edu" style="text-decoration: none; font-weight: bold;">jpenghe[at]mit[dot]edu</a>
       <br/>
       <a href="mailto:he416@purdue.edu" style="text-decoration: none; font-weight: bold;">he416[at]purdue[dot]edu</a>
+      <br/>
+      <a href="mailto:jhe2@iu.edu" style="text-decoration: none; font-weight: bold;">jhe2[at]iu[dot]edu</a>
     </div>
 
 news: true # includes a list of news items
