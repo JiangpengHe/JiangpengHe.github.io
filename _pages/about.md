@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am currently an Assistant Professor in the Department of Computer Science at <a href='https://luddy.indiana.edu/'>Indiana University Bloomington</a>. Previously, I was a Postdoctoral Associate at <a href='https://mit.edu/'>MIT</a>, working with <a href='https://scholar.google.com/citations?user=0nJR75gAAAAJ&hl=en'>Dr. Hermano Igo Krebs</a> on Smart Rehabilitation Robotics. I also served as an Adjunct Professor in the Department of Electrical and Computer Engineering at <a href='https://www.purdue.edu/'>Purdue University</a>.
+Hi, I am currently a tenure-track Assistant Professor in the Department of Computer Science at <a href='https://luddy.indiana.edu/'>Indiana University Bloomington</a>. Previously, I was a Postdoctoral Associate at <a href='https://mit.edu/'>MIT</a>, working with <a href='https://scholar.google.com/citations?user=0nJR75gAAAAJ&hl=en'>Dr. Hermano Igo Krebs</a> on Smart Rehabilitation Robotics. I also served as an Adjunct Professor in the Department of Electrical and Computer Engineering at <a href='https://www.purdue.edu/'>Purdue University</a>.
 
 I earned my Ph.D. in Electrical and Computer Engineering from <a href='https://www.purdue.edu/'>Purdue University</a>, in the <a href='https://engineering.purdue.edu/~ips/'>Video and Image Processing Lab (VIPER)</a>, where I had the privilege of being advised by <a href='https://engineering.purdue.edu/~zhu0/'>Prof. Fengqing Maggie Zhu</a> and <a href='https://engineering.purdue.edu/~ace/'>Prof. Edward Delp</a>.
 
