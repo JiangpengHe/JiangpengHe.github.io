@@ -30,4 +30,4 @@ Prior to my doctoral studies, I obtained my bachelor's degree from the <a href='
 
 <i>I warmly welcome anyone interested in collaborating or discussing research with me, whether remotely or in person. Potential topics related to **continual learning**, **long-tail learning**, and **AI for health care**.</i>
 
-<span style="color: red; font-weight: bold;">I am seeking highly motivated Ph.D students for Spring 2026 and Fall 2026. Please email me your CV if you are interested. Make sure to indicate whether you are applying for 2026Spring, 2026Fall, or Research Intern in your email title.</span>
+<span style="color: red; font-weight: bold;">I am seeking highly motivated Ph.D students for Fall 2026. Please email me your CV if you are interested. Make sure to indicate whether you are applying for 2026Fall or the Research Intern in your email title.</span>
