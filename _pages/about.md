@@ -12,9 +12,7 @@ profile:
     <div style="text-align: center; margin-top: 10px; padding-left: 5%;">
       <a href="mailto:jhe2@iu.edu" style="text-decoration: none; font-weight: bold;">jhe2[at]iu[dot]edu</a>
       <br/>
-      <a href="mailto:he416@purdue.edu" style="text-decoration: none; font-weight: bold;">he416[at]purdue[dot]edu</a>
-      <br/>
-      <a href="mailto:jpenghe@mit.edu" style="text-decoration: none; font-weight: bold;">jpenghe[at]mit[dot]edu</a>    
+      <a href="mailto:he416@purdue.edu" style="text-decoration: none; font-weight: bold;">he416[at]purdue[dot]edu</a>  
     </div>
 
 news: true # includes a list of news items
